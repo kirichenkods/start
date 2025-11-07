@@ -1,13 +1,13 @@
-package com.example.start;
+package com.example.expenseTracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StartApplication {
+public class ExpenseTrackerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(StartApplication.class, args);
+        SpringApplication.run(ExpenseTrackerApplication.class, args);
     }
 
 }

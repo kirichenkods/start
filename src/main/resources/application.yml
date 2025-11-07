@@ -1,1 +1,4 @@
-spring.application.name=start
+spring:
+  application:
+    name: ExpenseTracker
+
